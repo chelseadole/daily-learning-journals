@@ -1,0 +1,1 @@
+# Today was a good day! I got a lot done, and feel much better about my salmon cookies project. Thank god we had this catch-up day. If I didn't have this "mop up" day, I think I'd be a lot more stressed out. I also feel I got a bit better at using console.log() to debug today. Overall good day. 
