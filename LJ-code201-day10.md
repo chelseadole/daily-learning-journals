@@ -1,0 +1,1 @@
+# Today was a surprisingly chill day at CF! Because we did a lot of review, and also spent part of the day watching 401 presentations and speakers, it didn't feel as busy. However, success of the day, I was FINALLY able to figure out how to add day-totals in Salmon Cookies! At long last -Chelsea
